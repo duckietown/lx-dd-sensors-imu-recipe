@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.4
 # parameters
-ARG EXERCISE_NAME="dd24-sensors-imu-lx-solution"
+ARG EXERCISE_NAME="lx-dd-sensors-imu-solution"
 ARG DESCRIPTION="DD24 IMU Sensors"
 ARG MAINTAINER="Duckietown"
 

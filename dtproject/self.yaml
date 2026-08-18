@@ -1,4 +1,4 @@
-name: "lx-recipe-dd24-sensors-imu"
+name: "lx-dd-sensors-imu-recipe"
 maintainer:
     name: "Duckietown"
     email: "info@duckietown.com"
